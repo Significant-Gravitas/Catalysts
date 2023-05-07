@@ -29,12 +29,14 @@
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
 - [#430][430] - Resume state on connection loss restored
 
+# TTS/STT Proposals:
+## Pull Requests:
+- [#3568][3568] - Proposal to add StreamElements TTS
+
 # Git Operations:
 ## Pull Requests:
 - [#3815][3815] - Proposal to hardcode additional git operations
-  - **This PR hard codes the features (poor Inversion of Control) ☹**
 - [#364][364] - Proposal to hardcode additional git operations and add react support
-  - **This PR hard codes the features (poor Inversion of Control) ☹**
 
 # Bitcoin Operations:
 ## Pull Requests:
@@ -48,6 +50,7 @@
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
+[3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
 [3593]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3593
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
