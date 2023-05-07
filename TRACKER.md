@@ -153,7 +153,7 @@
 - [#3863][3863] - Parallel Testing proposal
 - [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
 - [#3839][3839] - Proposal to update the wiki to include challenges
-  - specify what challenges are as opposed to other forms of tests
+  - ***specify what challenges are as opposed to other forms of tests***
 - [#3838][3838] - Memory Challenge
 - [#3837][3837] - Information Retrieval
 - [#3836][3836] - Python Debug Challenge
