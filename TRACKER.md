@@ -49,7 +49,10 @@
 ## Pull Requests:
 - [#3551][3551] - Proposal to improve web browsing prompts
 
-# LLM/ML Proposals:
+# LLM/LLM-API Proposals:
+## Issues:
+- [#3942][3942] - Proposal to add 3rd party OpenAI API support
+
 ## Pull Requests:
 - [#45][45] - Efforts to add gpt-3.5
 
@@ -273,3 +276,4 @@
 [3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
 [3938]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/3938
 [3939]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3939
+[3942]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3942
