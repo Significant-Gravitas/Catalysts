@@ -117,6 +117,10 @@
   - used to test basic language support
 - [#2775][2775] - Proposal to add support for other languages
 
+# Spoken Language Support:
+## Discussions:
+- [#471][471] - Proposal to add support for other languages
+
 # Challenges and Unit Testing:
 ## Issues:
 - [#3937][3937] - Adaptability Challenge
@@ -199,6 +203,7 @@
 [45]:https://github.com/Significant-Gravitas/Auto-GPT/pull/45
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
+[471]:https://github.com/Significant-Gravitas/Auto-GPT/issues/471
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822
