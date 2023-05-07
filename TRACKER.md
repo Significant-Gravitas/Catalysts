@@ -112,6 +112,8 @@
   - Specifics about how to run these tests/challenges
 
 - [#3901][3901] - Regression Test via Simple Contact Form
+- [#3900][3900] - Proposal to add async tooling to tests
+  - related to [#3871][3871]
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
 - [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
@@ -215,6 +217,7 @@
 [3871]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3871
 [3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
+[3900]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3900
 [3901]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3901
 [3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
 [3906]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3906
