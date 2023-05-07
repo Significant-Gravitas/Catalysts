@@ -60,11 +60,17 @@
 - [#3568][3568] - Proposal to add StreamElements TTS
 - [#3566][3566] - Proposal to make MacOS TTS configurable
 
-# Save State/Caching Proposals:
+# Save-State/Caching/Logging Proposals:
 ## Issues:
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
+- [#3843][3843] - Proposal to log user input
+- [#3842][3842] - Proposal to add Self-Feedback-based Logging
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
 - [#430][430] - Resume state on connection loss restored
+
+## Pull Requests:
+- [#3868][3868] - Implementation of [#3842][3842]
+- [#3867][3867] - Implementation of [#3843][3843]
 
 # Git Operations:
 ## Pull Requests:
