@@ -75,6 +75,7 @@
 - [#3843][3843] - Proposal to log user input
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
+- [#822][822] - Proposal to save state and continue later
 - [#430][430] - Resume state on connection loss restored
 
 ## Pull Requests:
@@ -176,6 +177,7 @@
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
+[822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
