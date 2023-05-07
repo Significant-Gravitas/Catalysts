@@ -146,7 +146,6 @@
 
 - [#3906][3906] - Test Order
   - Specifics about how to run these tests/challenges
-
 - [#3901][3901] - Regression Test via Simple Contact Form
 - [#3900][3900] - Proposal to add async tooling to tests
   - related to [#3871][3871]
@@ -154,10 +153,8 @@
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
 - [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
-
 - [#3839][3839] - Proposal to update the wiki to include challenges
   - specify what challenges are as opposed to other forms of tests
-
 - [#3838][3838] - Memory Challenge
 - [#3837][3837] - Information Retrieval
 - [#3836][3836] - Python Debug Challenge
