@@ -14,6 +14,10 @@
 - [#3790][3790] - (Re-Arch) Planner Interface work
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
 
+# Documentation Proposals
+## Issues:
+- [#3939][3939] - Proposal to update install instructions with activator
+
 # Code Decoupling/Inversion of Control Proposals:
 - These proposals would need a Re-Arch.
 ## Issues:
@@ -154,3 +158,4 @@
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
 [3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
 [3938]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/3938
+[3939]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3939
