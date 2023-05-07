@@ -93,6 +93,7 @@
 
 ## Pull Requests:
 - [#1988][1988] - Proposal to add Edgedriver support
+- [#2066][2066] - Proposal to add optional drivers to .env
 
 # Bitcoin Operations:
 ## Pull Requests:
@@ -197,6 +198,7 @@
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
+[2066]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2066
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
