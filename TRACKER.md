@@ -168,6 +168,9 @@
 - [#3716][3716] - JSON issues with commands
 
 # User Issues:
+## Discussions:
+- [#1311][1311] - Invalid Open API Key
+
 ## Issues:
 - [#3904][3904] - Can't get google_search to be invoked
   - possibly not a user-error issue, but conversation context seems to suggest so
