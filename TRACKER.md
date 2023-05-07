@@ -60,8 +60,9 @@
 ## Pull Requests:
 - [#45][45] - Efforts to add gpt-3.5
 
-# Memory Backend Proposals:
+# Memory Backend Proposals (and Bugs):
 ## Issues:
+- [#3859][3859] - Redis Memory on Local install not working
 - [#3844][3844] - Proposal to log memory usage
 
 # Observer/Regulatory Agents and Restrictions Proposals:
@@ -278,6 +279,7 @@
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3855]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3855
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
+[3859]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3859
 [3863]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3863
 [3865]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3865
 [3866]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3866
