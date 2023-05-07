@@ -60,7 +60,6 @@
 - [#3868][3868] - Implementation of [#3842][3842]
 - [#1874][1874] - Proposal to add constraints
 
-
 # TTS/STT Proposals:
 ## Pull Requests:
 - [#3885][3885] - Proposal to add plain speech
@@ -88,19 +87,26 @@
 - [#3815][3815] - Proposal to add git operations
 - [#364][364] - Proposal to add git operations and add react support
 
+# Web Automation Capability:
+## Issues:
+- [#3936][3936] - Challenge to test web and web form
+
+## Pull Requests:
+- [#1988][1988] - Proposal to add Edgedriver support
+
 # Bitcoin Operations:
 ## Pull Requests:
 - [#749][749] - Proposal to add bitcoin commands
+
+# Static File Parsing:
+## Discussions:
+- [#3938][3938] - Inquiry about XML parsing
 
 # Program Language Support:
 ## Issues:
 - [#3901][3901] - Regression Test via Simple Contact Form
   - used to test basic language support
 - [#2775][2775] - Proposal to add support for other languages
-
-# Static File Parsing:
-## Discussions:
-- [#3938][3938] - Inquiry about XML parsing
 
 # Challenges and Unit Testing:
 ## Issues:
@@ -187,6 +193,7 @@
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
+[1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
