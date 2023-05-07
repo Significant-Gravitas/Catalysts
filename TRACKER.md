@@ -183,6 +183,10 @@
 ## Issues:
 - [#3716][3716] - JSON issues with commands
 
+# Prompt Looping Bugs:
+## Issues:
+- [#3855][3855] - Google Scraping causes infinite loop
+
 # User Issues:
 ## Discussions:
 - [#1311][1311] - Invalid Open API Key
@@ -250,6 +254,7 @@
 [3847]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3847
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
+[3855]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3855
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
 [3863]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3863
 [3865]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3865
