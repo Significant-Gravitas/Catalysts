@@ -17,6 +17,7 @@
 # Documentation Proposals
 ## Issues:
 - [#3939][3939] - Proposal to update install instructions with activator
+- [#3839][3839] - Proposal to update the wiki to include challenges
 
 # Recursive Self-Improvement Proposals:
 ## Issues:
@@ -89,6 +90,10 @@
 - [#3901][3901] - Regression Test via Simple Contact Form
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
+
+- [#3839][3839] - Proposal to update the wiki to include challenges
+  - specify what challenges are as opposed to other forms of tests
+
 - [#3838][3838] - Memory Challenge
 - [#3837][3837] - Information Retrieval
 - [#3836][3836] - Python Debug Challenge
@@ -165,6 +170,7 @@
 [3836]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3836
 [3837]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3837
 [3838]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3838
+[3839]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3839
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
