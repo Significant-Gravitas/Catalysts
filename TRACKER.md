@@ -12,7 +12,7 @@
 - [#3805][3805] - (Re-Arch) Introduce a Configuration Abstraction for the Re-Arch
 - [#3795][3795] - (Re-Arch) Introduce the Workspace Base Class
 - [#3790][3790] - (Re-Arch) Planner Interface work
-- [#3717][3717] - (Re-Arch) Agent State Encapsulation (I think this is supposed to actually describe the new architecture?)
+- [#3717][3717] - (Re-Arch) Agent State Encapsulation
 
 # Code Decoupling/Inversion of Control Proposals:
 - These proposals would need a Re-Arch.
@@ -42,6 +42,7 @@
 # Save State/Caching Proposals:
 ## Issues:
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
+- [#3717][3717] - (Re-Arch) Agent State Encapsulation
 - [#430][430] - Resume state on connection loss restored
 
 # Git Operations:
