@@ -49,6 +49,10 @@
 ## Pull Requests:
 - [#3580][3580] - pyobjc missing on Mac OS
 
+# Challenges:
+## Issues:
+- [#3936][3936] - Challenge to test web and web form navigation
+
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
@@ -70,3 +74,4 @@
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
+[3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
