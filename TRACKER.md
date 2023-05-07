@@ -56,12 +56,13 @@
 
 # Challenges and Unit Testing:
 ## Issues:
+- [#3937][3937] - Adaptability Challenge
 - [#3936][3936] - Challenge to test web and web form
+- [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
 - [#3835][3835] - Building Challenges
 - [#3837][3837] - Information Retrieval
 - [#3838][3838] - Memory Challenge
-- [#3871][3871] - Psychological Challenges
 
 ## Pull Requests:
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
