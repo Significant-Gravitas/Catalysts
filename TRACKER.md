@@ -44,6 +44,10 @@
 ## Pull Requests:
 - [#45][45] - Efforts to add gpt-3.5
 
+# Memory Backend Proposals:
+## Issues:
+- [#3844][3844] - Proposal to log memory usage
+
 # Observer/Regulatory Agents:
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
@@ -63,6 +67,7 @@
 # Save-State/Caching/Logging Proposals:
 ## Issues:
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
+- [#3844][3844] - Proposal to log memory usage
 - [#3843][3843] - Proposal to log user input
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
@@ -190,6 +195,7 @@
 [3839]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3839
 [3842]:https;//github.com/Significant-Gravitas/Auto-GPT/issues/3842
 [3843]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3843
+[3844]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3844
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
