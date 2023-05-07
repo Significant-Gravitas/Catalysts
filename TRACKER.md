@@ -160,9 +160,10 @@
 
 # User Issues:
 ## Issues:
-- [#644][644] - Invalid OpenAI API Key
 - [#3904][3904] - Can't get google_search to be invoked
   - possibly not a user-error issue, but conversation context seems to suggest so
+- [#1914][1914] - OpenAI Key not set
+- [#644][644] - Invalid OpenAI API Key
 
 # Misc Bugs:
 ## Pull Requests:
@@ -182,6 +183,7 @@
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
+[1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
