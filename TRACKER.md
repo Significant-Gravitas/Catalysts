@@ -53,12 +53,17 @@
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form navigation
 
+# User Issues:
+## Issues:
+- [#644][644] - Invalid OpenAI API Key
+
 # Unsorted:
 ## Pull Requests:
 - [#3866][3866] - Unknown (Not proposed in English)
 
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
+[644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
