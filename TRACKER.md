@@ -58,12 +58,14 @@
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form
 - [#3863][3863] - Parallel Testing proposal
+- [#3835][3835] - Building Challenges
 
 ## Pull Requests:
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
 
 # Team Requests/Help Wanted:
 ## Issues:
+- [#3835][3835] - Building Challenges
 - [#1454][1454] - Managing Github Issues
 
 # Docker Problems:
@@ -117,6 +119,7 @@
 [3815]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3815
 [3824]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3824
 [3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
+[3835]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3835
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
