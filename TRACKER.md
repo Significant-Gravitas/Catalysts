@@ -54,9 +54,12 @@
 - [#749][749] - Proposal to hardcode bitcoin commands
   - **This PR hard codes the features (poor Inversion of Control) ☹**
 
-# Challenges:
+# Challenges and Unit Testing:
 ## Issues:
-- [#3936][3936] - Challenge to test web and web form 
+- [#3936][3936] - Challenge to test web and web form
+
+## Pull Requests:
+- [#3870][3870] - Support for Concurrent Testing with pytest-xdist
 
 # Team Requests/Help Wanted:
 ## Issues:
@@ -117,6 +120,7 @@
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
 [3866]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3866
+[3870]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3870
 [3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
