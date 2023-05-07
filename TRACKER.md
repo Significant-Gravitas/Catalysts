@@ -50,10 +50,11 @@
 ## Issues:
 - [#3844][3844] - Proposal to log memory usage
 
-# Observer/Regulatory Agents:
+# Observer/Regulatory Agents and Restrictions Proposals:
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
+- [#3466][3466] - Proposal to add constraints awareness
 
 ## Pull Requests:
 - [#3868][3868] - Implementation of [#3842][3842]
@@ -181,6 +182,7 @@
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
+[3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
