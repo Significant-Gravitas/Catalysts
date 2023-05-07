@@ -140,3 +140,4 @@
 [3932]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3932
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
+[3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
