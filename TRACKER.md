@@ -24,6 +24,11 @@
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
 
+# Save State/Caching Proposals:
+## Issues:
+- [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
+- [#430][430] - Resume state on connection loss restored
+
 # Git Operations:
 ## Pull Requests:
 - [#3815][3815] - Proposal to hardcode additional git operations
@@ -36,8 +41,14 @@
 - [#749][749] - Proposal to hardcode bitcoin commands
   - **This PR hard codes the features (poor Inversion of Control) ☹**
 
+# Bugs:
+## Pull Requests:
+- [#3580][3580] - pyobjc missing on Mac OS
+
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
+[430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
+[3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
 [3593]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3593
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
@@ -51,3 +62,4 @@
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
+[3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
