@@ -221,6 +221,7 @@
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822
+[1311]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/1311
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
@@ -229,6 +230,7 @@
 [2773]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2773
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3058]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3058
+[3419]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3419
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
 [3519]:https://github.com/Singnificant-Gravitas/Auto-GPT/pull/3519
