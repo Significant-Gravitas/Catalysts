@@ -103,6 +103,7 @@
 
 ## Pull Requests:
 - [#3551][3551] - Proposal to improve web browsing prompts
+- [#3519][3519] - Various fixes for Selenium
 - [#3058][3058] - Proposal to add EdgeDriver Support with a download manager
 - [#2066][2066] - Proposal to add optional drivers to .env
 - [#1988][1988] - Proposal to add Edgedriver support
@@ -229,6 +230,7 @@
 [3058]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3058
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
+[3519]:https://github.com/Singnificant-Gravitas/Auto-GPT/pull/3519
 [3551]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3551
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
