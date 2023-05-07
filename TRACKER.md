@@ -21,6 +21,10 @@
 - [#3775][3775] - Proposal to separate the math calculation functions into their own plugin
 - [#3593][3593] - Proposal to separate the planner and executor into 2 separate agents.
 
+# LLM/ML Proposals:
+## Pull Requests:
+- [#45][45] - Efforts to add gpt-3.5
+
 # Observer/Regulatory Agents:
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
@@ -76,6 +80,7 @@
 ## Pull Requests:
 - [#3866][3866] - Unknown (Not proposed in English)
 
+[45]:https://github.com/Significant-Gravitas/Auto-GPT/pull/45
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
