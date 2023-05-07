@@ -50,17 +50,21 @@
 - [#749][749] - Proposal to hardcode bitcoin commands
   - **This PR hard codes the features (poor Inversion of Control) ☹**
 
-# Bugs:
-## Pull Requests:
-- [#3580][3580] - pyobjc missing on Mac OS
-
 # Challenges:
 ## Issues:
-- [#3936][3936] - Challenge to test web and web form navigation
+- [#3936][3936] - Challenge to test web and web form 
+
+# Docker Problems:
+## Pull Requests:
+- [#3875][3875] - Fix docker setup in setup.md
 
 # User Issues:
 ## Issues:
 - [#644][644] - Invalid OpenAI API Key
+
+# Misc Bugs:
+## Pull Requests:
+- [#3580][3580] - pyobjc missing on Mac OSnavigation
 
 # Unsorted:
 ## Pull Requests:
@@ -88,6 +92,7 @@
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
 [3866]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3866
+[3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
