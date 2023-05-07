@@ -13,3 +13,12 @@
 - [#3795][3795] - (Re-Arch) Introduce the Workspace Base Class
 - [#3790][3790] - (Re-Arch) Planner Interface work
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
+
+[3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
+[3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
+[3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
+[3795]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3795
+[3805]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3805
+[3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
+[3824]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3824
+[3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
