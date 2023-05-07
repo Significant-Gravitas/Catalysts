@@ -53,6 +53,10 @@
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form navigation
 
+# Unsorted:
+## Pull Requests:
+- [#3866][3866] - Unknown (Not proposed in English)
+
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
@@ -71,6 +75,7 @@
 [3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
+[3866]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3866
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
