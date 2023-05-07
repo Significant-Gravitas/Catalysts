@@ -127,6 +127,9 @@
 ## Discussions:
 - [#471][471] - Proposal to add support for other languages
 
+## Issues:
+- [#1563][1563] - Proposal to add support for other languages
+
 # Challenges and Unit Testing:
 ## Issues:
 - [#3937][3937] - Adaptability Challenge
@@ -223,6 +226,7 @@
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822
 [1311]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/1311
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
+[1563]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1563
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
