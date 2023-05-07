@@ -65,6 +65,12 @@
 ## Pull Requests:
 - [#749][749] - Proposal to add bitcoin commands
 
+# Program Language Support:
+## Issues:
+- [#3901][3901] - Regression Test via Simple Contact Form
+  - used to test basic language support
+- [#2775][2775] - Proposal to add support for other languages
+
 # Static File Parsing:
 ## Discussions:
 - [#3938][3938] - Inquiry about XML parsing
@@ -137,6 +143,7 @@
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
+[2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
