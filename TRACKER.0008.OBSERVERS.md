@@ -1,0 +1,15 @@
+# Observer/Regulatory Agents and Restrictions Proposals:
+## Issues:
+- [#3916][3916] - Proposal to Self-Regulate through Observer Agents
+- [#3842][3842] - Proposal to add Self-Feedback-based Logging
+- [#3466][3466] - Proposal to add constraints awareness
+
+## Pull Requests:
+- [#3868][3868] - Implementation of [#3842][3842]
+- [#1874][1874] - Proposal to add constraints
+
+[1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
+[3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
+[3842]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3842
+[3868]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3868
+[3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
