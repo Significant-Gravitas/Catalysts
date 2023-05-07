@@ -42,6 +42,13 @@
 - [#3775][3775] - Proposal to separate the math calculation functions into their own plugin
 - [#3593][3593] - Proposal to separate the planner and executor into 2 separate agents.
 
+# Built-in Prompt Improvement Proposals:
+## Issues:
+- [#3858][3858] - Proposal to put prompts into a dictionary
+
+## Pull Requests:
+- [#3551][3551] - Proposal to improve web browsing prompts
+
 # LLM/ML Proposals:
 ## Pull Requests:
 - [#45][45] - Efforts to add gpt-3.5
@@ -92,8 +99,9 @@
 - [#3936][3936] - Challenge to test web and web form
 
 ## Pull Requests:
-- [#1988][1988] - Proposal to add Edgedriver support
+- [#3551][3551] - Proposal to improve web browsing prompts
 - [#2066][2066] - Proposal to add optional drivers to .env
+- [#1988][1988] - Proposal to add Edgedriver support
 
 # Bitcoin Operations:
 ## Pull Requests:
@@ -202,6 +210,7 @@
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
+[3551]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3551
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
