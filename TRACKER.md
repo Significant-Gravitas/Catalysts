@@ -107,6 +107,7 @@
 - [#3935][3935] - Another Debug Challenge
 - [#3917][3917] - Challenge Creator Challenge
 - [#3912][3912] - Challenge Solver Challenge
+- [#3907][3907] - Proposal to enforce using default commands when testing
 
 - [#3906][3906] - Test Order
   - Specifics about how to run these tests/challenges
@@ -114,6 +115,7 @@
 - [#3901][3901] - Regression Test via Simple Contact Form
 - [#3900][3900] - Proposal to add async tooling to tests
   - related to [#3871][3871]
+- [#3883][3883] - Proposal to use automatic AutoGPT config by default
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
 - [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
@@ -216,11 +218,13 @@
 [3870]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3870
 [3871]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3871
 [3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
+[3883]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3883
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3900]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3900
 [3901]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3901
 [3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
 [3906]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3906
+[3907]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3907
 [3912]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3912
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
 [3917]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3917
