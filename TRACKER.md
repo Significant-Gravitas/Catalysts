@@ -70,6 +70,7 @@
 ## Pull Requests:
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
 - [#3865][3865] - Python Debug Challenge
+- [#3804][3804] - Python Debug Challenge
 
 # Team Requests/Help Wanted:
 ## Issues:
@@ -123,6 +124,7 @@
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
 [3795]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3795
+[3804]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3804
 [3805]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3805
 [3813]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3813
 [3815]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3815
