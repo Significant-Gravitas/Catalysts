@@ -62,6 +62,13 @@
 ## Pull Requests:
 - [#3875][3875] - Fix docker setup in setup.md
 
+# File System Bugs:
+## Issues:
+- [#3705][3705] - Absolute path access to same directory
+
+## Pull Requests:
+- [#3932][3932] - Fix for [#3705][3705]
+
 # JSON Bugs:
 ## Issues:
 - [#3716][3716] - JSON issues with commands
@@ -91,6 +98,7 @@
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
 [3593]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3593
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
+[3705]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3705
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
@@ -108,5 +116,6 @@
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
+[3932]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3932
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
