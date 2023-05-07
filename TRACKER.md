@@ -19,6 +19,9 @@
 - [#3939][3939] - Proposal to update install instructions with activator
 - [#3839][3839] - Proposal to update the wiki to include challenges
 
+## Pull Requests:
+- [#3764][3764] - Add challenges to wiki
+
 # Recursive Self-Improvement Proposals:
 ## Issues:
 - [#3917][3917] - Challenge Creator Challenge
@@ -104,6 +107,7 @@
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
 - [#3865][3865] - Python Debug Challenge
 - [#3804][3804] - Python Debug Challenge
+- [#3764][3764] - Add challenges to wiki
 
 # Team Requests/Help Wanted:
 ## Issues:
@@ -157,6 +161,7 @@
 [3705]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3705
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
+[3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
 [3795]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3795
