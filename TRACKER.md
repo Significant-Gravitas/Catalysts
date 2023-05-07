@@ -18,10 +18,11 @@
 ## Issues:
 - [#3939][3939] - Proposal to update install instructions with activator
 
-# Recursive Self-Import Proposals:
+# Recursive Self-Improvement Proposals:
 ## Issues:
 - [#3912][3912] - Challenge Solver Challenge
 - [#15][15] - Proposal to recursively improve AutoGPT
+- [#11][11] - Proposal to improve generated texts with reflection
 
 # Code Decoupling/Inversion of Control Proposals:
 - These proposals would need a Re-Arch.
@@ -120,6 +121,7 @@
 ## Pull Requests:
 - [#3866][3866] - Unknown (Not proposed in English)
 
+[11]:https://github.com/Significant-Gravitas/Auto-GPT/issues/11
 [15]:https://github.com/Significant-Gravitas/Auto-GPT/issues/15
 [45]:https://github.com/Significant-Gravitas/Auto-GPT/pull/45
 [364]:https://github.com/Significant-Gravitas/Auto-GPT/issues/364
