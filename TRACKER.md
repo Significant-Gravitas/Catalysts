@@ -149,6 +149,7 @@
 # File System Bugs:
 ## Issues:
 - [#3705][3705] - Absolute path access to same directory
+- [#3514][3514] - Failures to write/rewrite to a file
 
 ## Pull Requests:
 - [#3932][3932] - Fix for [#3705][3705]
