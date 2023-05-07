@@ -58,6 +58,10 @@
 ## Pull Requests:
 - [#3875][3875] - Fix docker setup in setup.md
 
+# JSON Bugs:
+## Issues:
+- [#3716][3716] - JSON issues with commands
+
 # User Issues:
 ## Issues:
 - [#644][644] - Invalid OpenAI API Key
@@ -80,6 +84,7 @@
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
 [3593]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3593
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
+[3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
