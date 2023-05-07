@@ -18,6 +18,7 @@
 ## Issues:
 - [#3939][3939] - Proposal to update install instructions with activator
 - [#3839][3839] - Proposal to update the wiki to include challenges
+- [#3841][3841] - Proposal to update the issue template to reflect when to send debug logs
 
 ## Pull Requests:
 - [#3764][3764] - Add challenges to wiki
@@ -193,7 +194,8 @@
 [3837]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3837
 [3838]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3838
 [3839]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3839
-[3842]:https;//github.com/Significant-Gravitas/Auto-GPT/issues/3842
+[3841]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3841
+[3842]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3842
 [3843]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3843
 [3844]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3844
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
