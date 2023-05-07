@@ -27,6 +27,7 @@
 ## Issues:
 - [#3917][3917] - Challenge Creator Challenge
 - [#3912][3912] - Challenge Solver Challenge
+- [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
 - [#15][15] - Proposal to recursively improve AutoGPT
 - [#11][11] - Proposal to improve generated texts with reflection
@@ -65,9 +66,11 @@
 - [#3568][3568] - Proposal to add StreamElements TTS
 - [#3566][3566] - Proposal to make MacOS TTS configurable
 
-# Save-State/Caching/Logging Proposals:
+# Save-State/Caching and also Logging Proposals:
+- linking loging and save-state, because both involve similar goals
 ## Issues:
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
+- [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
 - [#3844][3844] - Proposal to log memory usage
 - [#3843][3843] - Proposal to log user input
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
@@ -111,6 +114,7 @@
 - [#3901][3901] - Regression Test via Simple Contact Form
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
+- [#3847][3847] - Proposal to add framework to generate failing tests from debug logs
 
 - [#3839][3839] - Proposal to update the wiki to include challenges
   - specify what challenges are as opposed to other forms of tests
@@ -198,6 +202,7 @@
 [3842]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3842
 [3843]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3843
 [3844]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3844
+[3847]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3847
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858
