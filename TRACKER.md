@@ -58,6 +58,10 @@
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form 
 
+# Team Requests/Help Wanted:
+## Issues:
+- [#1454][1454] - Managing Github Issues
+
 # Docker Problems:
 ## Pull Requests:
 - [#3875][3875] - Fix docker setup in setup.md
@@ -92,6 +96,7 @@
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
+[1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
