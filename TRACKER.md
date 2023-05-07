@@ -143,6 +143,9 @@
 - [#1454][1454] - Managing Github Issues
 
 # Docker Problems:
+## Issues:
+- [#3735][3735] - Problem with executing created files
+
 ## Pull Requests:
 - [#3875][3875] - Fix docker setup in setup.md
 
@@ -195,6 +198,7 @@
 [3705]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3705
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
+[3735]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3735
 [3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
