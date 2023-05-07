@@ -24,14 +24,15 @@
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
 
+# TTS/STT Proposals:
+## Pull Requests:
+- [#3885][3885] - Proposal to add plain speech
+- [#3568][3568] - Proposal to add StreamElements TTS
+
 # Save State/Caching Proposals:
 ## Issues:
 - [#3933][3933] - Proposal to save state to disk via [Python Pickle](https://docs.python.org/3/library/pickle.html)
 - [#430][430] - Resume state on connection loss restored
-
-# TTS/STT Proposals:
-## Pull Requests:
-- [#3568][3568] - Proposal to add StreamElements TTS
 
 # Git Operations:
 ## Pull Requests:
@@ -64,5 +65,6 @@
 [3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
+[3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
