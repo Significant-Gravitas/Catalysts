@@ -25,6 +25,10 @@
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
 
+## Pull Requests:
+- [#1874][1874] - Proposal to add constraints
+
+
 # TTS/STT Proposals:
 ## Pull Requests:
 - [#3885][3885] - Proposal to add plain speech
@@ -66,6 +70,7 @@
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [749]:https://github.com/Significant-Gravitas/Auto-GPT/issues/749
+[1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
