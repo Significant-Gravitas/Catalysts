@@ -143,7 +143,6 @@
 - [#3917][3917] - Challenge Creator Challenge
 - [#3912][3912] - Challenge Solver Challenge
 - [#3907][3907] - Proposal to enforce using default commands when testing
-
 - [#3906][3906] - Test Order
   - Specifics about how to run these tests/challenges
 - [#3901][3901] - Regression Test via Simple Contact Form
