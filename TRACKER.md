@@ -76,6 +76,7 @@
 - [#3935][3935] - Another Debug Challenge
 - [#3917][3917] - Challenge Creator Challenge
 - [#3912][3912] - Challenge Solver Challenge
+- [#3901][3901] - Regression Test via Simple Contact Form
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
 - [#3838][3838] - Memory Challenge
@@ -163,6 +164,7 @@
 [3871]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3871
 [3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
 [3885]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3885
+[3901]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3901
 [3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
 [3912]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3912
 [3916]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3916
