@@ -47,13 +47,16 @@
 
 # Git Operations:
 ## Pull Requests:
-- [#3815][3815] - Proposal to hardcode additional git operations
-- [#364][364] - Proposal to hardcode additional git operations and add react support
+- [#3815][3815] - Proposal to add git operations
+- [#364][364] - Proposal to add git operations and add react support
 
 # Bitcoin Operations:
 ## Pull Requests:
-- [#749][749] - Proposal to hardcode bitcoin commands
-  - **This PR hard codes the features (poor Inversion of Control) ☹**
+- [#749][749] - Proposal to add bitcoin commands
+
+# Static File Parsing:
+## Discussions:
+- [#3938][3938] - Inquiry about XML parsing
 
 # Challenges and Unit Testing:
 ## Issues:
@@ -150,3 +153,4 @@
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
 [3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
+[3938]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/3938
