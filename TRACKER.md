@@ -53,6 +53,10 @@
 ## Issues:
 - [#3942][3942] - Proposal to add 3rd party OpenAI API support
 
+# Rate-Limit Handling Proposals
+## Issues:
+- [#1841][1841] - Proposal to chunk prompts and gracefully handle token overflows
+
 ## Pull Requests:
 - [#45][45] - Efforts to add gpt-3.5
 
@@ -227,6 +231,7 @@
 [1311]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/1311
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [1563]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1563
+[1841]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1841
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
