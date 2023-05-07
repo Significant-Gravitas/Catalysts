@@ -199,7 +199,10 @@
 - [#1914][1914] - OpenAI Key not set
 - [#644][644] - Invalid OpenAI API Key
 
-# Misc Bugs:
+# General Python-related Bugs:
+## Issues:
+- [#2773][2773] - numpy_ops failure to load
+
 ## Pull Requests:
 - [#3580][3580] - pyobjc missing on Mac OSnavigation
 
@@ -221,6 +224,7 @@
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
 [2066]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2066
+[2773]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2773
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3058]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3058
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
