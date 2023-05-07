@@ -102,6 +102,7 @@
 - [#3936][3936] - Challenge to test web and web form
 
 ## Pull Requests:
+- [#3757][3756] - Proposal to add Chrome and Chromedriver paths to .env
 - [#3551][3551] - Proposal to improve web browsing prompts
 - [#3519][3519] - Various fixes for Selenium
 - [#3058][3058] - Proposal to add EdgeDriver Support with a download manager
@@ -241,6 +242,7 @@
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
 [3735]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3735
+[3756]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3756
 [3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
