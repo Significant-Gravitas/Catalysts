@@ -61,9 +61,10 @@
 - [#3936][3936] - Challenge to test web and web form
 - [#3871][3871] - Psychological Challenge
 - [#3863][3863] - Parallel Testing proposal
-- [#3835][3835] - Building Challenges
-- [#3837][3837] - Information Retrieval
 - [#3838][3838] - Memory Challenge
+- [#3837][3837] - Information Retrieval
+- [#3836][3836] - Python Debug Challenge
+- [#3835][3835] - Building Challenges
 
 ## Pull Requests:
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
@@ -125,6 +126,7 @@
 [3824]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3824
 [3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
 [3835]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3835
+[3836]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3836
 [3837]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3837
 [3838]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3838
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
