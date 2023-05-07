@@ -184,6 +184,7 @@
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874
 [2775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2775
 [3466]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3466
+[3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568
 [3580]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3580
