@@ -5,9 +5,11 @@
 - [#3839][3839] - Proposal to update the wiki to include challenges
 
 ## Pull Requests:
+- [#3989][3989] - Fix for Memory Challenge Docs
 - [#3764][3764] - Add challenges to wiki
 
 [3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3839]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3839
 [3841]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3841
 [3939]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3939
+[3989]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3989
