@@ -33,7 +33,11 @@
 - [#3865][3865] - Python Debug Challenge
 - [#3804][3804] - Python Debug Challenge
 - [#3764][3764] - Add challenges to wiki
+- [#3695][3695] - Add logs for challenges
+- [#3605][3605] - Add logs for challenges and debugging
 
+[3605]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3605
+[3695]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3695
 [3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3804]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3804
 [3813]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3813
