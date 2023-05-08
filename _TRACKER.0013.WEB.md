@@ -5,6 +5,8 @@
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form
 - [#3904][3904] - Can't get google_search to be invoked
+- [#1949][1949] - Benign Selenium Error (Selenium logging is not disabled)
+- [#1606][1606] - Benign Selenium Error (Selenium logging is not disabled)
 
 ## Pull Requests:
 - [#3757][3756] - Proposal to add Chrome and Chromedriver paths to .env
@@ -15,6 +17,8 @@
 - [#1988][1988] - Proposal to add Edgedriver support
 
 [918]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/918
+[1606]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1606
+[1949]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1949
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
 [2066]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2066
 [3058]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3058
