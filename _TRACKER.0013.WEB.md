@@ -1,4 +1,7 @@
 # Web Automation Capability:
+## Discussions:
+- [#918][918] - How to use with login-only websites?
+
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form
 
@@ -10,6 +13,7 @@
 - [#2066][2066] - Proposal to add optional drivers to .env
 - [#1988][1988] - Proposal to add Edgedriver support
 
+[918]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/918
 [1988]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1988
 [2066]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2066
 [3058]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3058
