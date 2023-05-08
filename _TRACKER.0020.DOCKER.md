@@ -7,8 +7,10 @@
 
 ## Pull Requests:
 - [#3875][3875] - Fix docker setup in setup.md
+- [#3713][3713] - Add Option to Decontainerize Python Execution
 
 [3341]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3341
+[3713]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3713
 [3735]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3735
 [3875]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3875
 [3977]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3977
