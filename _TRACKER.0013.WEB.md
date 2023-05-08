@@ -4,6 +4,7 @@
 
 ## Issues:
 - [#3936][3936] - Challenge to test web and web form
+- [#3904][3904] - Can't get google_search to be invoked
 
 ## Pull Requests:
 - [#3757][3756] - Proposal to add Chrome and Chromedriver paths to .env
@@ -20,4 +21,5 @@
 [3519]:https://github.com/Singnificant-Gravitas/Auto-GPT/pull/3519
 [3551]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3551
 [3756]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3756
+[3904]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3904
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
