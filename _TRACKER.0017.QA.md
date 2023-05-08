@@ -1,4 +1,7 @@
-# Challenges and Unit Testing:
+# Software QA Testing:
+- Includes:
+  - Challenges & Tests
+  - Benchmarks & Metrics
 ## Issues:
 - [#3937][3937] - Adaptability Challenge
 - [#3936][3936] - Challenge to test web and web form
@@ -25,6 +28,7 @@
 
 ## Pull Requests:
 - [#3989][3989] - Fix for Memory Challenge Docs
+- [#3982][3982] - Proposal to add benchmarks
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
 - [#3865][3865] - Python Debug Challenge
 - [#3804][3804] - Python Debug Challenge
@@ -53,4 +57,5 @@
 [3935]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3935
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
 [3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
+[3982]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3982
 [3989]:https://githuv.com/Significant-Gravitas/Auto-GPT/pull/3989
