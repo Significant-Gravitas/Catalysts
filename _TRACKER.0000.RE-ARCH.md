@@ -5,6 +5,7 @@
 - [#3652][3652] - (Re-Arch) Plugin API work
 
 ## Pull Requests:
+- [#3969][3969] - (Re-Arch) Hello World
 - [#3853][3853] - (Re-Arch) Work to Decouple Logging into its own Interface.
 - [#3850][3850] - (Re-Arch) Abstraction for the Language Model
 - [#3831][3831] - (Re-Arch) Message Broker (?not sure what this is supposed to be yet)
@@ -14,6 +15,7 @@
 - [#3790][3790] - (Re-Arch) Planner Interface work
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
 
+[3969]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3969
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790

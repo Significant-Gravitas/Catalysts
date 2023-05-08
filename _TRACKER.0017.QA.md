@@ -29,6 +29,7 @@
 ## Pull Requests:
 - [#3989][3989] - Fix for Memory Challenge Docs
 - [#3982][3982] - Proposal to add benchmarks
+- [#3969][3969] - (Re-Arch) Hello World
 - [#3870][3870] - Support for Concurrent Testing with pytest-xdist (fix for [#3863][3863])
 - [#3865][3865] - Python Debug Challenge
 - [#3804][3804] - Python Debug Challenge
@@ -64,5 +65,6 @@
 [3935]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3935
 [3936]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3936
 [3937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3937
+[3969]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3969
 [3982]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3982
 [3989]:https://githuv.com/Significant-Gravitas/Auto-GPT/pull/3989
