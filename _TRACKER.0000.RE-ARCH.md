@@ -6,6 +6,7 @@
 
 ## Pull Requests:
 - [#3995][3995] - (Re-Arch) Plugin API Work
+- [#3986][3986] - (Re-Arch) 
 - [#3969][3969] - (Re-Arch) Hello World
 - [#3853][3853] - (Re-Arch) Work to Decouple Logging into its own Interface.
 - [#3850][3850] - (Re-Arch) Abstraction for the Language Model
@@ -26,4 +27,5 @@
 [3831]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3831
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
+[3986]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3986
 [3995]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3995
