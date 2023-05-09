@@ -81,59 +81,37 @@ function script:Copy-Gists{
 
 }
 
-$Out = Read-Tree
+$script:Out = Read-Tree
 
 Get-ChildItem "./.GISTS" | Remove-Item –recurse -Force
 Copy-Gists -DirArray @() -Tree $Out
 
 Write-Host "What convos did you add?"
 
-$Convo = Read-Host
-$Title = ($Convo -split "\/|\\")[-1]
+$script:Convo = Read-Host
+$script:Title = ($Convo -split "\/|\\")[-1]
 
-git add .
+@(
+    ".\.GISTS",
+    ".\.WIKI",
+    "."
+) | ForEach-Object {
+    Write-Host "Committing: $_"
+    git -C $_ add .
+    $diff = git -C $_ diff --cached --name-only
+    if( $diff.count ){
+        if( $Convo -eq $Title ){
+            git -C $_ commit -m $Title
+        } else {
+            git -C $_ commit -m $Title -m $Convo
+        }
+        git -C $_ push -u origin
+    }
+}
+
 $diff = @{
     "GISTS" = git -C ".\.GISTS" diff --cached --name-only
     "WIKI" = git -C ".\.WIKI" diff --cached --name-only
-}
-
-
-if( $Convo -eq $Title ){
-    if( $diff.GISTS.count ){
-        Write-Host "Updating Gists..."
-        git -C ".\.GISTS" commit -m $Title
-        git -C ".\.GISTS" push -u origin
-        git add .
-    }
-    if( $diff.WIKI.count ){
-        Write-Host "Updating Wiki..."
-        git -C ".\.WIKI" commit -m $Title
-        git -C ".\.WIKI" push -u origin
-        git add .
-    }
-    if( (git diff --cached --name-only).count ){
-        Write-Host "Updating Main Repo..."
-        git commit -m $Title
-        git push -u origin
-    }
-} else {
-    if( $diff.GISTS.count ){
-        Write-Host "Updating Gists..."
-        git -C ".\.GISTS" commit -m $Title -m $Convo
-        git -C ".\.GISTS" push -u origin
-        git add .
-    }
-    if( $diff.WIKI.count ){
-        Write-Host "Updating Wiki..."
-        git -C ".\.WIKI" commit -m $Title -m $Convo
-        git -C ".\.WIKI" push -u origin
-        git add .
-    }
-    if( (git diff --cached --name-only).count ){
-        Write-Host "Updating Main Repo..."
-        git commit -m $Title -m $Convo
-        git push -u origin
-    }
 }
 
 Write-Host "Done!"
