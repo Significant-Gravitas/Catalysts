@@ -82,7 +82,7 @@ function script:Copy-Gists{
 
 $Out = Read-Tree
 
-Get-ChildItem "./.gist" | Remove-Item –recurse -Force
+Get-ChildItem "./.GISTS" | Remove-Item –recurse -Force
 Copy-Gists -DirArray @() -Tree $Out
 
 Write-Host "What convos did you add?"
