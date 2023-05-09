@@ -97,15 +97,15 @@ $script:Title = ($Convo -split "\/|\\")[-1]
     "."
 ) | ForEach-Object {
     Write-Host "Committing: $_"
-    git -C $_ add .
+    git -C $_ add . | Out-Null
     $diff = git -C $_ diff --cached --name-only
     if( $diff.count ){
         if( $Convo -eq $Title ){
-            git -C $_ commit -m $Title
+            git -C $_ commit -m $Title | Out-Null
         } else {
-            git -C $_ commit -m $Title -m $Convo
+            git -C $_ commit -m $Title -m $Convo | Out-Null
         }
-        git -C $_ push -u origin
+        git -C $_ push -u origin | Out-Null
     }
 }
 
