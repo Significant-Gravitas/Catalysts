@@ -5,6 +5,7 @@ function script:Read-Tree{
     param( $Path = "." )
 
     $Children = (Get-ChildItem $Path).Name |
+        Where-Object { $null -ne $_ } |
         Where-Object { !$_.StartsWith( "." ) }
 
     $Tree = @{}
