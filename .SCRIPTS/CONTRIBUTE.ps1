@@ -109,9 +109,4 @@ $script:Title = ($Convo -split "\/|\\")[-1]
     }
 }
 
-$diff = @{
-    "GISTS" = git -C ".\.GISTS" diff --cached --name-only
-    "WIKI" = git -C ".\.WIKI" diff --cached --name-only
-}
-
 Write-Host "Done!"
