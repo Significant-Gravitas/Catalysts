@@ -1,4 +1,4 @@
-[submodule ".gist"]
+[submodule "GISTS"]
 	path = .gist
 	url = https://gist.github.com/97d4bb3e9535c92b8173fae704b76264
 [submodule "WIKI"]
