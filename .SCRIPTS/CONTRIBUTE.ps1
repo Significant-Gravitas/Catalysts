@@ -99,31 +99,37 @@ $diff = @{
 
 if( $Convo -eq $Title ){
     if( $diff.GISTS.count ){
+        Write-Host "Updating Gists..."
         git -C ".\.GISTS" commit -m $Title
         git -C ".\.GISTS" push -u origin
         git add .
     }
     if( $diff.WIKI.count ){
+        Write-Host "Updating Wiki..."
         git -C ".\.WIKI" commit -m $Title
         git -C ".\.WIKI" push -u origin
         git add .
     }
     if( (git diff --cached --name-only).count ){
+        Write-Host "Updating Main Repo..."
         git commit -m $Title
         git push -u origin
     }
 } else {
     if( $diff.GISTS.count ){
+        Write-Host "Updating Gists..."
         git -C ".\.GISTS" commit -m $Title -m $Convo
         git -C ".\.GISTS" push -u origin
         git add .
     }
     if( $diff.WIKI.count ){
+        Write-Host "Updating Wiki..."
         git -C ".\.WIKI" commit -m $Title -m $Convo
         git -C ".\.WIKI" push -u origin
         git add .
     }
     if( (git diff --cached --name-only).count ){
+        Write-Host "Updating Main Repo..."
         git commit -m $Title -m $Convo
         git push -u origin
     }
