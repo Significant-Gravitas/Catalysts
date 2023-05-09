@@ -5,6 +5,7 @@
 - [#3652][3652] - (Re-Arch) Plugin API work
 
 ## Pull Requests:
+- [#4005][4005] - (Re-Arch) Status Tracking
 - [#3995][3995] - (Re-Arch) Plugin API Work
 - [#3986][3986] - (Re-Arch) More Message Broker Work
 - [#3969][3969] - (Re-Arch) Hello World
@@ -19,7 +20,6 @@
 - [#3790][3790] - (Re-Arch) Planner Interface work
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
 
-[3969]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3969
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717
 [3790]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3790
@@ -30,5 +30,7 @@
 [3850]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3850
 [3853]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3853
 [3919]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3919
+[3969]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3969
 [3986]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3986
 [3995]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3995
+[4005]:https://github.com/Significant-Gravitas/Auto-GPT/pull/4005
