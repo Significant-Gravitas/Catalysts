@@ -1,4 +1,4 @@
-# Rate-Limit Handling Proposals
+# Cost/Rate-Limit Handling Proposals
 ## Issues:
 - [#1841][1841] - Proposal to chunk prompts and gracefully handle token overflows
 
