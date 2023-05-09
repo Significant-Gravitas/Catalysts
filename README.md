@@ -6,6 +6,8 @@ A lot of issues/prs/discussions end up getting recreated, because contributors s
 
 Since I am a _junkie_ for issue tracking, I have created this public gist to help others navigate AutoGPT's repo.
 
+    - my discord name: anonhostpi 
+
 ## Don't Like How Developer/Community Convos are Presented Here?
 
 You can find this tracker **both as a gist and as a repo**:
@@ -15,3 +17,9 @@ You can find this tracker **both as a gist and as a repo**:
 Github Gists presents files linearly, while the repo presents them in a folder structure.
 
 Gists are easier to read, but repos are easier to contribute to
+
+## Interesting and Fun Tools:
+
+[Microsoft's GPT2 Neuron Viewer][neuron-viewer] - a tool to visualize the neurons of GPT2
+
+[neuron-viewer]:https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html
