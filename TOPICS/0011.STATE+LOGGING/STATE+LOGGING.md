@@ -11,6 +11,7 @@
 - [#430][430] - Resume state on connection loss restored
 
 ## Pull Requests:
+- [#4033][4033] - Sync -> Async Testing of ApiManager
 - [#3868][3868] - Implementation of [#3842][3842]
 - [#3867][3867] - Implementation of [#3843][3843]
 - [#3853][3853] - (Re-Arch) Work to Decouple Logging into its own Interface.
@@ -35,3 +36,4 @@
 [3867]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3867
 [3868]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3868
 [3933]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3933
+[4033]:https://github.com/Significant-Gravitas/Auto-GPT/pull/4033

@@ -27,6 +27,7 @@
 - [#3813][3813] - Python Debug Challenge (Duplicate of [#3836][3836])
 
 ## Pull Requests:
+- [#4033][4033] - Sync -> Async Testing of ApiManager
 - [#3989][3989] - Fix for Memory Challenge Docs
 - [#3985][3985] - Document Failing Memory Challenge C
 - [#3982][3982] - Proposal to add benchmarks
@@ -69,4 +70,5 @@
 [3969]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3969
 [3982]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3982
 [3985]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3985
-[3989]:https://githuv.com/Significant-Gravitas/Auto-GPT/pull/3989
+[3989]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3989
+[4033]:https://github.com/Significant-Gravitas/Auto-GPT/pull/4033
