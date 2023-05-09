@@ -1,4 +1,4 @@
-# Observer/Regulatory Agents and Restrictions Proposals:
+# Agent Self-Moderation Proposals:
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents
 - [#3842][3842] - Proposal to add Self-Feedback-based Logging
