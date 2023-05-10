@@ -20,6 +20,7 @@ Closing issue as this is a limitation with your OpenAI Account.
 ## Pull Requests:
 - [#3919][3919] - (Re-Arch) Budget Manager Proposal
 - [#3313][3313] - Budget Remaining Report Proposal
+- [#214][214] - Proposal to "backoff" when OpenAI API caps out/throttles requests
 
 [1841]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1841
 [3313]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3313
