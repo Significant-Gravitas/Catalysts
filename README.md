@@ -21,5 +21,6 @@ Gists are easier to read, but repos are easier to contribute to
 ## Interesting and Fun Tools:
 
 [Microsoft's GPT2 Neuron Viewer][neuron-viewer] - a tool to visualize the neurons of GPT2
+- Explained here: https://openai.com/research/language-models-can-explain-neurons-in-language-models
 
 [neuron-viewer]:https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html
