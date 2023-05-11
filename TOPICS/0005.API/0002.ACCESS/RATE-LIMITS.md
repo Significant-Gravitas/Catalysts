@@ -3,7 +3,7 @@
 [label_chunking]:https://github.com/Significant-Gravitas/Auto-GPT/labels/function%3A%20process%20text
 [label_cost]:https://github.com/Significant-Gravitas/Auto-GPT/labels/API%20costs
 [platform]:https://platform.openai.com
-# Cost/Rate-Limit Handling Proposals
+# Cost/Rate-Limit Handling
 ## Issues:
 - [#3897][3897] - "DOUBLE CHECK CONFIGURATION" error
 - [#1841][1841] - Proposal to chunk prompts and gracefully handle token overflows
