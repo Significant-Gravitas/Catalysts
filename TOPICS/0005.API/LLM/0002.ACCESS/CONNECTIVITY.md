@@ -1,5 +1,5 @@
-[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-0002-access-connectivity-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/0002.ACCESS/CONNECTIVITY.md
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-llm-0002-access-connectivity-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/LLM/0002.ACCESS/CONNECTIVITY.md
 # API Disconnect/Connectivity Problems:
 ## Issues:
 - [#3977][3977] - Errno 101 - Network is unreachable

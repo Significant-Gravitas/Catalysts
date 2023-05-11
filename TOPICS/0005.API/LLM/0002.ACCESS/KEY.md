@@ -1,5 +1,5 @@
-[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-0002-access-key-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/0002.ACCESS/KEY.md
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-llm-0002-access-key-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/LLM/0002.ACCESS/KEY.md
 [label]:https://github.com/Significant-Gravitas/Auto-GPT/labels/API%20access
 # API Authorization Problems:
 - Error Code 104: Bad Gateway usually means bad API Key

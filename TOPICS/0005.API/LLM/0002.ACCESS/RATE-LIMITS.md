@@ -1,5 +1,5 @@
-[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-0002-access-rate-limits-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/0002.ACCESS/RATE-LIMITS.md
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-llm-0002-access-rate-limits-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/LLM/0002.ACCESS/RATE-LIMITS.md
 [label_chunking]:https://github.com/Significant-Gravitas/Auto-GPT/labels/function%3A%20process%20text
 [label_cost]:https://github.com/Significant-Gravitas/Auto-GPT/labels/API%20costs
 [platform]:https://platform.openai.com

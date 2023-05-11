@@ -1,5 +1,5 @@
-[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-0001-llm-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/0001.LLM.md
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0005-api-llm-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0005.API/LLM/LLM.md
 # LLM/LLM-API Proposals:
 ## Issues:
 - [#3942][3942] - Proposal to add 3rd party OpenAI API support
