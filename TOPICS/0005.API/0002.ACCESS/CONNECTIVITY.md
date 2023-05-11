@@ -6,6 +6,7 @@
 - [#3728][3728] - Connection Aborted - Remote end closed connection without response
 - [#3607][3607] - Proposal to handle 401+/500+ errors from the OpenAI Python module
 - [#2937][2937] - Request Timed Out
+- [#2862][2862] - Connection Aborted - Remote end closed connection without response
 - [#2553][2553] - HTTP Response Code 500 from OpenAI Python module
 - [#2241][2241] - Connection Aborted - Remote end closed connection without response
 - [#1010][1010] - Errno 101 - Network is unreachable
@@ -22,6 +23,7 @@ Make sure to check http://status.openai.com/ and recommend checking 3rd parties 
 [1010]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1010
 [2241]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2241
 [2553]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2553
+[2862]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2862
 [2937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2937
 [3607]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3607
 [3728]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3728
