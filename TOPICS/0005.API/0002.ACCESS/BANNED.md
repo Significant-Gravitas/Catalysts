@@ -1,8 +1,12 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0002-access-banned-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0002.API/0002.ACCESS/BANNED.md
+[label]:https://github.com/Significant-Gravitas/Auto-GPT/labels/API%20access
 # API Access Problems:
-- see: https://github.com/Significant-Gravitas/Auto-GPT/labels/API%20access
-
 ## Issues:
 - [#3823][3823] - Banned Region - China
+
+## Useful Links:
+- [Gist][gist] - [Source][source] - [Label][label]
 
 ## Common Response:
 ### Un-Supported Regions:

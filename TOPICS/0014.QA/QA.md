@@ -1,3 +1,5 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0014-qa-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0014.QA/QA.md
 # Software QA Testing:
 - Includes:
   - Challenges & Tests
@@ -40,6 +42,9 @@
 - [#3605][3605] - Add logs for challenges and debugging
 - [#3554][3554] - Cassette fix on http/prompts
   - helps improve reliability of regression tests
+
+## Useful Links:
+- [Gist][gist] - [Source][source]
 
 [3554]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3554
 [3605]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3605

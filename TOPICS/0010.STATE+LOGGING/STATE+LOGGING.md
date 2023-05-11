@@ -1,3 +1,5 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0010-state-logging-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0010.STATE+LOGGING/STATE+LOGGING.md
 # Save-State/Caching and also Logging Proposals:
 - linking loging and save-state, because both involve similar goals
 ## Issues:
@@ -20,6 +22,9 @@
 - [#3605][3605] - Proposal to add logs for challenges and debugging
 - [#3554][3554] - Cassette fix on http/prompts
   - helps improve reliability of regression tests
+
+## Useful Links:
+- [Gist][gist] - [Source][source]
 
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822

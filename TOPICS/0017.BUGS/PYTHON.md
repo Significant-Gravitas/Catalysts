@@ -1,3 +1,5 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0017-bugs-python-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0017.BUGS/PYTHON.md
 # General Python-related Bugs:
 ## Issues:
 - [#3992][3992] - spelling mistake in string
@@ -9,6 +11,9 @@
 
 ## Pull Requests:
 - [#3580][3580] - pyobjc missing on Mac OSnavigation
+
+## Useful Links:
+- [Gist][gist] - [Source][source]
 
 [2773]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2773
 [3088]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3088

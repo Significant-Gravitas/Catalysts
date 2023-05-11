@@ -1,6 +1,7 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0000-projects-re-arch-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0000.PROJECTS/RE-ARCH.md
+[label]:https://github.com/Significant-Gravitas/Auto-GPT/labels/re-arch
 # Re-Arch Work:
-- see: https://github.com/Significant-Gravitas/Auto-GPT/labels/re-arch
-
 ## Issues:
 - [#3652][3652] - (Re-Arch) Plugin API work
 
@@ -19,6 +20,9 @@
 - [#3795][3795] - (Re-Arch) Introduce the Workspace Base Class
 - [#3790][3790] - (Re-Arch) Planner Interface work
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
+
+## Useful Links:
+- [Gist][gist] - [Source][source] - [Label][label]
 
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717

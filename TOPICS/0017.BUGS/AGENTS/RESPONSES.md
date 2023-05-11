@@ -1,6 +1,11 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0017-bugs-agents-responses-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0017.BUGS/AGENTS/RESPONSES.md
 # Poor Response Generation
 ## Issues:
 
 - [#3728][3728] - Bad URL Creation
+
+## Useful Links:
+- [Gist][gist] - [Source][source]
 
 [3728]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3728

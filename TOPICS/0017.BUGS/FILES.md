@@ -1,3 +1,5 @@
+[gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0017-bugs-files-md
+[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0017.BUGS/FILES.md
 # File System Bugs:
 ## Issues:
 - [#4034][4034] - Duplicate of [#4029][4029]
@@ -9,6 +11,9 @@
 
 ## Pull Requests:
 - [#3932][3932] - Fix for [#3705][3705]
+
+## Useful Links:
+- [Gist][gist] - [Source][source]
 
 [3419]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3419
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514
