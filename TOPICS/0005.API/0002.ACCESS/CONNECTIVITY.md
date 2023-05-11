@@ -11,7 +11,7 @@
 - [Gist][gist] - [Source][source]
 - OpenAI Status: http://status.openai.com/
 
-## Common Response:
+## Common Responses:
 ```md
 Make sure to check http://status.openai.com/ and recommend checking 3rd parties like downdetector: https://downdetector.com/status/openai/
 ```

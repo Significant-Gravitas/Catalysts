@@ -8,7 +8,7 @@
 ## Useful Links:
 - [Gist][gist] - [Source][source] - [Label][label]
 
-## Common Response:
+## Common Responses:
 ### Un-Supported Regions:
 ```
 Current list of unsupported regions (may be inaccurate, please check with your API provider and your local ordinance)

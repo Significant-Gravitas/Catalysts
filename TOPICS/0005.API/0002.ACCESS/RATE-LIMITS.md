@@ -11,7 +11,7 @@
 ## Useful Links:
 - [Gist][gist] - [Source][source] - [Label: Chunking][label_chunking] - [Label: Cost][label_cost]
 
-### Common Response:
+## Common Responses:
 ```
 Rate Limit errors occur from 1 of 3 typical problems: Your usage of the API is way to high, you don't have a paid account, or you have hit your maximum financial usage for the month.
 
