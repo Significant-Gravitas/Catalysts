@@ -4,10 +4,10 @@
 # API Authorization Problems:
 - Error Code 104: Bad Gateway usually means bad API Key
 ## Discussions:
-- [#1311][1311] - Invalid Open API Key
+- [#1311][1311] - Invalid OpenAI API Key
 
 ## Issues:
-- [#4084][4084] - Invalid Open API Key
+- [#4084][4084] - Invalid OpenAI API Key
 - [#1914][1914] - OpenAI Key not set
 - [#644][644] - Invalid OpenAI API Key
 
@@ -26,6 +26,9 @@ Whenever making changes to [https://platform.openai.com][platform], you'll need 
 [chat]:https://chat.openai.com/
 [platform]:https://platform.openai.com
 ```
+
+## Notes:
+as found in [#4084][4084], having duplicate OPEANAI_API_KEY entries in the .env file can cause the Invalid API Key error.
 
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
 [1073]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1073

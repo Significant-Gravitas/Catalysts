@@ -10,7 +10,7 @@
 - [#1441][1441] - API Rate Limit Reached - ***`--debug` flag related bug***
 - [#1252][1252] - API Rate Limit Reached - Failed to Get Response (Dupe of #1189)
 - [#1227][1227] - auto-gpt.json
-  - caused by the low rate limite associated with not having a paid [platform.openai.com][platform] account
+  - caused by the low rate limit associated with not having a paid [platform.openai.com][platform] account
 - [#1203][1203] - chat_completion - Failed to Get Response
 - [#1189][1189] - API Rate Limit Reached - Failed to Get Response
 - [#1174][1174] - auto-gpt.json
