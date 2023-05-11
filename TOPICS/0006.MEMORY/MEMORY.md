@@ -5,6 +5,7 @@
 - [#3859][3859] - Redis Memory on Local install not working
 - [#3844][3844] - Proposal to log memory usage
 - [#3838][3838] - Memory Challenge
+- [#2916][2916] - Pinecone - Failed to Connect
 - [#328][328] - Pinecone - Failed to Connect
 
 ## Pull Requests:
@@ -16,6 +17,7 @@
 
 [328]:https://github.com/Significant-Gravitas/Auto-GPT/issues/328
 [2128]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2128
+[2914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2914
 [3838]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3838
 [3844]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3844
 [3859]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3859
