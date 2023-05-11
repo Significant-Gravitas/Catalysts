@@ -19,6 +19,7 @@
 Make sure to check http://status.openai.com/ and recommend checking 3rd parties like downdetector: https://downdetector.com/status/openai/
 ```
 
+[1010]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1010
 [2241]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2241
 [2553]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2553
 [2937]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2937

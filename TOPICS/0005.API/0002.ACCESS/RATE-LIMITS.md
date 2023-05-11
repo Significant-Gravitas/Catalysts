@@ -55,8 +55,12 @@ Closing issue as this is a limitation with your OpenAI Account.
 [235]:https://github.com/Significant-Gravitas/Auto-GPT/issues/235
 [425]:https://github.com/Significant-Gravitas/Auto-GPT/issues/425
 [585]:https://github.com/Significant-Gravitas/Auto-GPT/issues/585
+[1047]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1047
+[1073]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1073
+[1174]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1174
 [1189]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1189
 [1203]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1203
+[1227]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1227
 [1252]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1252
 [1304]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1304
 [1441]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1441
