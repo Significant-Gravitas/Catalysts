@@ -4,3 +4,6 @@
 [submodule "GISTS"]
 	path = .GISTS
 	url = https://gist.github.com/97d4bb3e9535c92b8173fae704b76264
+[submodule ".TOOLING/AIDS"]
+	path = .TOOLING/AIDS
+	url = https://github.com/Torantulino/git-aid.git

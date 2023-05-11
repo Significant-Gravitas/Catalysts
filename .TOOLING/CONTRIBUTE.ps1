@@ -100,6 +100,9 @@ $script:Title = ($Convo -split "\/|\\")[-1]
     git -C $_ add . | Out-Null
     $diff = git -C $_ diff --cached --name-only
     if( $diff.count ){
+        if( $_ -eq ".\.WIKI" ){
+            git -C $_ pull upstream master | Out-Null
+        }
         if( $Convo -eq $Title ){
             git -C $_ commit -m $Title | Out-Null
         } else {
