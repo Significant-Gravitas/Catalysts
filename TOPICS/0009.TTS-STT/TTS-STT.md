@@ -7,7 +7,7 @@
 - [#3566][3566] - Proposal to make MacOS TTS configurable
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3566]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3566
 [3568]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3568

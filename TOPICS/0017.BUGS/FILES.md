@@ -13,7 +13,7 @@
 - [#3932][3932] - Fix for [#3705][3705]
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3419]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3419
 [3514]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3514

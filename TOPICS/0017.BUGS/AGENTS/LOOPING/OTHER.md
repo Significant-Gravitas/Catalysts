@@ -6,7 +6,7 @@
 - [#3943][3943] - File Exist on Non-Existent File causes infinite loop
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3855]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3855
 [3943]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3943

@@ -5,6 +5,6 @@
 - [#2799][2799] - Proposal to Reduce/Simplify `agent_manager.py`
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [2799]:https://github.com/Significant-Gravitas/Auto-GPT/pull/2799

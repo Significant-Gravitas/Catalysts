@@ -12,7 +12,7 @@
 - [#3764][3764] - Add challenges to wiki
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3764]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3764
 [3839]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3839

@@ -22,7 +22,7 @@
 - [#3717][3717] - (Re-Arch) Agent State Encapsulation
 
 ## Useful Links:
-- [Gist][gist] - [Source][source] - [Label][label]
+[Gist][gist] | [Alt][source] | [Label][label]
 
 [3652]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3652
 [3717]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3717

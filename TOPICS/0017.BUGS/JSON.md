@@ -10,7 +10,7 @@
 - [#3923][3923] - fix JSONDecodeError in summary_memory.py
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
 [3923]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3923

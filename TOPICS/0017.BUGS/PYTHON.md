@@ -13,7 +13,7 @@
 - [#3580][3580] - pyobjc missing on Mac OSnavigation
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [2773]:https://github.com/Significant-Gravitas/Auto-GPT/issues/2773
 [3088]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3088

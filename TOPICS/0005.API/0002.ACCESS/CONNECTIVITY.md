@@ -8,9 +8,10 @@
 - [#2937][2937] - Request Timed Out
 - [#2553][2553] - HTTP Response Code 500 from OpenAI Python module
 - [#2241][2241] - Connection Aborted - Remote end closed connection without response
+- [#1010][1010] - Errno 101 - Network is unreachable
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 - OpenAI Status: http://status.openai.com/
 
 ## Common Responses:

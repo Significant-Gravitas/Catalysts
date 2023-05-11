@@ -12,7 +12,7 @@
 - [#3713][3713] - Add Option to Decontainerize Python Execution
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3341]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3341
 [3713]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3713

@@ -6,7 +6,7 @@
 - [#1454][1454] - Managing Github Issues
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [1454]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1454
 [3835]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3835

@@ -6,7 +6,7 @@
 - [#1557][1557] - Looping on unknown command (`execute_local_command`)
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [1557]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1557
 [3994]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3994

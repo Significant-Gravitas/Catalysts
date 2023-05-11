@@ -12,7 +12,7 @@
 - [#1874][1874] - Proposal to add constraints
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [789]:https://github.com/Significant-Gravitas/Auto-GPT/issues/789
 [1874]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1874

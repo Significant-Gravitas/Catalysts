@@ -8,7 +8,7 @@
 - [#3593][3593] - Proposal to separate the planner and executor into 2 separate agents.
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3593]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3593
 [3775]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3775

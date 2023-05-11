@@ -11,19 +11,26 @@
 - [#1914][1914] - OpenAI Key not set
 - [#644][644] - Invalid OpenAI API Key
 
+## Pull Requests:
+- [#1304][1304] - Proposal to add OpenAI paid account requirement to README.md
+
 ## Useful Links:
-- [Gist][gist] - [Source][source] - [Label][label]
+[Gist][gist] | [Alt][source] | [Label][label]
 
 ## Common Responses:
 ```
-Whenever making changes to https://platform.openai.com, you'll need to verify that the key didn't change and to regenerate one if needed.
+It is important to note that [chat.openai.com][chat] and [platform.openai.com][platform] are not the same tools. Billing for one is completely different from the other.
 
-It is important that chat.openai.com and platform.openai.com are not the same tools. Billing for one is completely different from the other.
+Whenever making changes to [https://platform.openai.com][platform], you'll need to verify that the key didn't change or to regenerate one if needed.
 
-See https://github.com/Significant-Gravitas/Auto-GPT#%EF%B8%8F-openai-api-keys-configuration-%EF%B8%8F
+[chat]:https://chat.openai.com/
+[platform]:https://platform.openai.com
 ```
 
 [644]:https://github.com/Significant-Gravitas/Auto-GPT/issues/644
+[1073]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1073
+[1227]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1227
 [1311]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/1311
+[1304]:https://github.com/Significant-Gravitas/Auto-GPT/pull/1304
 [1914]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1914
 [4084]:https://github.com/Significant-Gravitas/Auto-GPT/issues/4084

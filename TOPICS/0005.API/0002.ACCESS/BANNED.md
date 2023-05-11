@@ -6,7 +6,7 @@
 - [#3823][3823] - Banned Region - China
 
 ## Useful Links:
-- [Gist][gist] - [Source][source] - [Label][label]
+[Gist][gist] | [Alt][source] | [Label][label]
 
 ## Common Responses:
 ### Un-Supported Regions:

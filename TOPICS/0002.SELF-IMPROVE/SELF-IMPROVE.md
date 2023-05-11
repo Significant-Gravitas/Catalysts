@@ -13,7 +13,7 @@
 - [#3868][3868] - Implementation of [#3842][3842]
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [11]:https://github.com/Significant-Gravitas/Auto-GPT/issues/11
 [15]:https://github.com/Significant-Gravitas/Auto-GPT/issues/15

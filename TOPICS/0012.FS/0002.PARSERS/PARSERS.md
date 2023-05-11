@@ -9,7 +9,7 @@
 - [#1930][1930] - How to parse PDF and TXT files
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [1930]:https://github.com/Significant-Gravitas/Auto-GPT/issues/1930
 [2285]:https://github.com/Significant-Gravitas/Auto-GPT/discussions/2285

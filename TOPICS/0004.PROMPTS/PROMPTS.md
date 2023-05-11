@@ -11,7 +11,7 @@
 - [#3551][3551] - Proposal to improve web browsing prompts
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3551]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3551
 [3858]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3858

@@ -24,7 +24,7 @@
   - helps improve reliability of regression tests
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [430]:https://github.com/Significant-Gravitas/Auto-GPT/issues/430
 [822]:https://github.com/Significant-Gravitas/Auto-GPT/issues/822

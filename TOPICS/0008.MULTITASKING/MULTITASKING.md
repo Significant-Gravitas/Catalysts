@@ -8,7 +8,7 @@
 - [#3947][3947] - Work for [#3945][3945]
 
 ## Useful Links:
-- [Gist][gist] - [Source][source]
+[Gist][gist] | [Alt][source]
 
 [3945]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3945
 [3947]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3947
