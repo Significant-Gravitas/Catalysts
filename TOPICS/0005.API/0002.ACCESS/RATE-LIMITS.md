@@ -15,11 +15,16 @@
 ```
 Rate Limit errors occur from 1 of 3 typical problems: Your usage of the API is way to high, you don't have a paid account, or you have hit your maximum financial usage for the month.
 
-Please check your [API Usage][API].
+To clarify, [platform.openai.com][platform] and [chat.openai.com][chat] are two different tools with their own set of billings. You need to have a paid account on [platform.openai.com][usage] to use the API.
+
+Please check your [API Usage and Billing here][usage], and please consult [the OpenAI wiki on their _various_ rate limits][wiki].
 
 Closing issue as this is a limitation with your OpenAI Account.
 
-[API]:https://platform.openai.com/account/billing/overview
+[platform]:https://platform.openai.com/
+[chat]:https://chat.openai.com/
+[wiki]:https://platform.openai.com/docs/guides/rate-limits/what-are-the-rate-limits-for-our-api
+[usage]:https://platform.openai.com/account/billing/overview
 ```
 
 ## Pull Requests:
