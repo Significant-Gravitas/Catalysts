@@ -54,14 +54,18 @@ function script:Copy-Gists{
             $GistFile = $_
 
             if( $GistFile -eq "README.md" ){
-                $GistFile = "__" + $GistFile
+                $GistFile = "`$AUTOGPT.md"
+            }
+
+            if( $GistFile -eq "LICENSE.md" ){
+                $GistFile = "_LICENSE.md"
             }
 
             $ParentDir = $DirArray[-1]
             if( $DirArray.Count -eq 0 ){
                 $GistPrefix = $GistFile
             } elseif( $ParentDir.length ){
-                $GistPrefix = "_" + ($DirArray -join ".")
+                $GistPrefix = "." + ($DirArray -join ".")
                 $ParentName = ($ParentDir -split "\.")[-1]
                 $LeafBase = Split-Path -LeafBase $GistFile
                 $ChildName = ($LeafBase -split "\.")[-1]
