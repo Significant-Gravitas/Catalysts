@@ -114,6 +114,7 @@ git -C ".\.TOOLING\AIDS" pull origin master | Out-Null
     }
 }
 
-& ".\.TOOLING\DUPECHECK.ps1"
-
+Write-Host
 Write-Host "Done!"
+
+& ".\.TOOLING\DUPECHECK.ps1"
