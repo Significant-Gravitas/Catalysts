@@ -24,6 +24,7 @@
 - [#75][75] - API Rate Limit Reached
 
 ## Pull Requests:
+- [#4127][4127] - Proposal to monitor token limits
 - [#3919][3919] - (Re-Arch) Budget Manager Proposal
 - [#3313][3313] - Budget Remaining Report Proposal
 - [#1304][1304] - Proposal to add OpenAI paid account requirement to README.md
@@ -68,3 +69,4 @@ Closing issue as this is a limitation with your OpenAI Account.
 [3313]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3313
 [3897]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3897
 [3919]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3919
+[4127]:https://github.com/Significant-Gravitas/Auto-GPT/pull/4127
