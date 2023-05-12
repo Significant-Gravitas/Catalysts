@@ -2,10 +2,13 @@
 [source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0017.BUGS/JSON.md
 # JSON Bugs:
 ## Issues:
+- [#4052][4052] - JSONDecodeError in summary_memory.py
 - [#3978][3978] - JSONDecodeError in summary_memory.py
+- [#3744][3744] - JSONDecodeError in summary_memory.py
 - [#3716][3716] - JSON issues with commands
 
 ## Pull Requests:
+- [#4104][4104] - fix JSONDecodeError in summary_memory.py
 - [#3996][3996] - fix JSONDecodeError in summary_memory.py
 - [#3923][3923] - fix JSONDecodeError in summary_memory.py
 
@@ -13,6 +16,8 @@
 [Gist][gist] | [Alt][source]
 
 [3716]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3716
+[3744]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3744
 [3923]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3923
 [3978]:https://github.com/Significant-Gravitas/Auto-GPT/issues/3978
 [3996]:https://github.com/Significant-Gravitas/Auto-GPT/pull/3996
+[4052]:https://github.com/Significant-Gravitas/Auto-GPT/issues/4052

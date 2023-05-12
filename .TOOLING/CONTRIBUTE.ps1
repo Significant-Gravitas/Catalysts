@@ -91,6 +91,8 @@ Write-Host "What convos did you add?"
 $script:Convo = Read-Host
 $script:Title = ($Convo -split "\/|\\")[-1]
 
+git -C ".\.TOOLING\AIDS" pull origin master | Out-Null
+
 @(
     ".\.GISTS",
     ".\.WIKI",
@@ -111,5 +113,7 @@ $script:Title = ($Convo -split "\/|\\")[-1]
         git -C $_ push -u origin | Out-Null
     }
 }
+
+& ".\.TOOLING\DUPECHECK.ps1"
 
 Write-Host "Done!"
