@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0001-docs-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0001.DOCS/DOCS.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0001.DOCS/DOCS.md
 # Documentation Proposals
 ## Issues:
 - [#3939][3939] - Proposal to update install instructions with activator

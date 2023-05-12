@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0003-structure-ioc-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0003.STRUCTURE/IOC.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0003.STRUCTURE/IOC.md
 # Code Decoupling/Inversion of Control Proposals:
 - These proposals would need a Re-Arch.
 ## Issues:

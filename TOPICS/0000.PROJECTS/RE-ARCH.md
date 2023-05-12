@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0000-projects-re-arch-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0000.PROJECTS/RE-ARCH.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0000.PROJECTS/RE-ARCH.md
 [label]:https://github.com/Significant-Gravitas/Auto-GPT/labels/re-arch
 # Re-Arch Work:
 ## Issues:

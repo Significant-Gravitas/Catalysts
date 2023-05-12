@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0006-memory-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0006.MEMORY/MEMORY.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0006.MEMORY/MEMORY.md
 # Memory Backend Proposals and Issues:
 ## Issues:
 - [#3859][3859] - Redis Memory on Local install not working

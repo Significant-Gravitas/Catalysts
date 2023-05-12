@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0004-prompts-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0004.PROMPTS/PROMPTS.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0004.PROMPTS/PROMPTS.md
 # Built-in Prompt Improvement Proposals:
 ## Issues:
 - [#3858][3858] - Proposal to put prompts into a dictionary

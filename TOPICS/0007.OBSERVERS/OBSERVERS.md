@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0007-observers-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0007.OBSERVERS/OBSERVERS.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0007.OBSERVERS/OBSERVERS.md
 # Agent Self-Moderation Proposals:
 ## Issues:
 - [#3916][3916] - Proposal to Self-Regulate through Observer Agents

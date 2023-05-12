@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0017-bugs-agents-looping-other-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0017.BUGS/AGENTS/LOOPING/OTHER.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0017.BUGS/AGENTS/LOOPING/OTHER.md
 # Prompt Looping Bugs:
 ## Issues:
 - [#3855][3855] - Google Scraping causes infinite loop

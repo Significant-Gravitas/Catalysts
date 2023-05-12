@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0002-self-improve-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0002.SELF-IMPROVE/SELF-IMPROVE.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0002.SELF-IMPROVE/SELF-IMPROVE.md
 # Recursive Self-Improvement Proposals:
 ## Issues:
 - [#3917][3917] - Challenge Creator Challenge

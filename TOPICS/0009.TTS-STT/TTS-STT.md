@@ -1,5 +1,5 @@
 [gist]:https://gist.github.com/anonhostpi/97d4bb3e9535c92b8173fae704b76264#file-_topics-0009-tts-stt-md
-[source]:https://github.com/anonhostpi/AUTOGPT.TRACKERS/blob/main/TOPICS/0009.TTS_STT/TTS_STT.md
+[source]:https://github.com/Significant-Gravitas/Catalysts/blob/main/TOPICS/0009.TTS_STT/TTS_STT.md
 # TTS/STT Proposals:
 ## Pull Requests:
 - [#3885][3885] - Proposal to add plain speech
