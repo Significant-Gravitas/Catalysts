@@ -27,3 +27,14 @@ Gists are easier to read, but repos are easier to contribute to
 
 ## Moderator Links:
 https://dontasktoask.com/
+
+## Maintainer Links (of this repo):
+- gist file order:
+  - https://stackoverflow.com/questions/17665267/how-do-you-control-the-order-in-which-files-appear-in-a-github-gist
+- git submodules:
+  - change remote url or path in `.gitmodules` file:
+    - https://stackoverflow.com/questions/60003502/git-how-to-change-url-path-of-a-submodule
+
+## Reading Group Links:
+- Bently's recordings: https://drive.google.com/drive/folders/1RjjasB-hBZQRjZwblC7pMbKf5-TnqXY5?usp=share_link
+- samdcbu's calendar: https://calendar.google.com/calendar/u/0?cid=Y2M2NDdlOTgyMzMzYTA5OGU2MzJhOThkY2M5OTNjODBlODA3MTg4ZGUzMmEwZGY3YjFlYzhkZmI3ZjhmODBkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
