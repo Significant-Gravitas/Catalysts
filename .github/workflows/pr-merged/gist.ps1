@@ -103,6 +103,7 @@ Workflow: $env:GITHUB_WORKFLOW
     Write-Host
     Write-Host "Committing: $_..."
     Write-Host
+    git -C $_ pull origin | Out-Null
     git -C $_ add . | Out-Null
     $diff = git -C $_ diff --cached --name-only
     if( $diff.count ){
