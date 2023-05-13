@@ -1,0 +1,37 @@
+name: Propagate change history to the gist submodule
+on:
+  pull_request:
+    types:
+      - closed
+    paths:
+      - './TOPICS'
+      - './TOPICS/**'
+jobs:
+  propagate:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    env:
+      PR_NUMBER: ${{ github.event.number }}
+      PR_TITLE: ${{ github.event.pull_request.title }}
+    steps:
+    - name: Check out repository code
+      uses: actions.checkout@v3
+    - name: Propagate changes to gist submodule
+      env:
+        GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
+      shell: pwsh
+      run: |
+        gh auth login
+        Set-Location (git rev-parse --show-toplevel)
+        . ".\github\workflows\pr-merged\gist.ps1"
+    - name: Notify of changes
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          github.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'pushed changes to gist'
+          })

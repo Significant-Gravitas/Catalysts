@@ -1,0 +1,36 @@
+name: Propagate change history fr the wiki submodule to the wiki
+
+on:
+  pull_request:
+    types:
+      - closed
+    paths:
+      - './.WIKI'
+      - './.WIKI/**'
+      
+jobs:
+  propagate:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    env:
+      PR_NUMBER: ${{ github.event.number }}
+      PR_TITLE: ${{ github.event.pull_request.title }}
+    steps:
+    - name: Check out repository code
+      uses: actions.checkout@v3
+    - name: Propagate changes to gist submodule
+      shell: pwsh
+      run: |
+        Set-Location (git rev-parse --show-toplevel)
+        . ".\github\workflows\pr-merged\wiki.ps1"
+    - name: Notify of changes
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          github.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'pushed changes to wiki'
+          })
