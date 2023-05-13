@@ -103,6 +103,7 @@ git -C ".\.TOOLING\AIDS" pull origin master | Out-Null
     "."
 ) | ForEach-Object {
     Write-Host "Committing: $_"
+    git -C $_ pull origin master | Out-Null
     git -C $_ add . | Out-Null
     $diff = git -C $_ diff --cached --name-only
     if( $diff.count ){
