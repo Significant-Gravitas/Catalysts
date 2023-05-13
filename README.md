@@ -38,5 +38,3 @@ https://dontasktoask.com/
 ## Reading Group Links:
 - Bently's recordings: https://drive.google.com/drive/folders/1RjjasB-hBZQRjZwblC7pMbKf5-TnqXY5?usp=share_link
 - samdcbu's calendar: https://calendar.google.com/calendar/u/0?cid=Y2M2NDdlOTgyMzMzYTA5OGU2MzJhOThkY2M5OTNjODBlODA3MTg4ZGUzMmEwZGY3YjFlYzhkZmI3ZjhmODBkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-
-## Testing
