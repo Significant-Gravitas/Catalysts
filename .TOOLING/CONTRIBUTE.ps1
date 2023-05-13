@@ -103,6 +103,7 @@ git -C ".\.TOOLING\AIDS" pull origin master | Out-Null
     "."
 ) | ForEach-Object {
     Write-Host "Committing: $_"
+    git -C $_ pull origin | Out-Null
     git -C $_ add . | Out-Null
     $diff = git -C $_ diff --cached --name-only
     if( $diff.count ){
@@ -122,3 +123,5 @@ Write-Host
 Write-Host "Done!"
 
 & ".\.TOOLING\DUPECHECK.ps1"
+
+# git branch | grep -o -m1 "\b\(master\|main\)\b"
